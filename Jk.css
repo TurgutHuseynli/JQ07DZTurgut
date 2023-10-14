@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.main{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 5em;
+}
+.why{
+    text-align: center;
+    font-weight: bold;
+}
+.btn{
+    margin: 10px 0;
+}
+.btn a button, .logout{
+    border: none;
+    color: rgb(220, 244, 255);
+    padding: 5px;
+}
+.reg button{
+    background: yellow;
+}
+.login button{
+    background: green;
+}
+.logout{
+    background: red;
+}
